@@ -1,3 +1,3 @@
-# pgsql-universefcc
+# Universe-fcc-pgsql
 
 ### Relational Database(Beta) 
